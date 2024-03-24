@@ -1,0 +1,162 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Война и мир",
+        "price": "1500",
+        "year": "2000",
+        "autor": "Л.Н.Толстой",
+        "genre": "Роман",
+        "volume": "500",
+        "language": "Русский",
+        "image": "assets/images/book.jpg",
+        "configure": {
+          "autor": "Л.Н.Толстой",
+          "genre": "Роман",
+          "volume": "500",
+          "language": "Русский"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Лолита",
+        "price": "1500",
+        "year": "2010",
+        "autor": "В.В.Набоков",
+        "genre": "Триллер",
+        "volume": "230",
+        "language": "Русский",
+        "image": "assets/images/book.jpg",
+        "configure": {
+          "autor": "В.В.Набоков",
+          "genre": "Триллер",
+          "volume": "230",
+          "language": "Русский"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Вечера на хуторе близь Диканьки",
+        "price": "1300",
+        "year": "2010",
+        "autor": "Н.В.Гоголь",
+        "genre": "Хоррор",
+        "volume": "240",
+        "language": "Русский",
+        "image": "assets/images/book.jpg",
+        "configure": {
+          "autor": "Н.В.Гоголь",
+          "genre": "Хоррор",
+          "volume": "240",
+          "language": "Русский"
+        }
+      },
+      {
+        "id": 4,
+        "title": "Козья тропа",
+        "price": "2500",
+        "year": "2001",
+        "autor": "В.У.Церберов",
+        "genre": "Роман",
+        "volume": "300",
+        "language": "Русский",
+        "image": "assets/images/book.jpg",
+        "configure": {
+          "autor": "В.У.Церберов",
+          "genre": "Роман",
+          "volume": "300",
+          "language": "Русский"
+        }
+      },
+      {
+        "id": 5,
+        "title": "Быстрый старт",
+        "price": "3200",
+        "year": "2000",
+        "autor": "Т.Л.Тююров",
+        "genre": "Спецзаказ",
+        "volume": "230",
+        "language": "Русский",
+        "image": "assets/images/book.jpg",
+        "configure": {
+          "autor": "Т.Л.Тююров",
+          "genre": "Спецзаказ",
+          "volume": "230",
+          "language": "Русский"
+        }
+      },
+      {
+        "id": 6,
+        "title": "123",
+        "price": "123",
+        "year": "123",
+        "autor": "12",
+        "genre": "123123",
+        "volume": "123",
+        "language": "123",
+        "image": "assets/images/book.jpg",
+        "configure": {
+          "autor": "12",
+          "genre": "123123",
+          "volume": "123",
+          "language": "123"
+        }
+      },
+      {
+        "id": 7,
+        "title": "00000",
+        "price": "00000",
+        "year": "000000",
+        "autor": "000000",
+        "genre": "00000",
+        "volume": "00000",
+        "language": "000000",
+        "image": "assets/images/book.jpg",
+        "configure": {
+          "autor": "000000",
+          "genre": "00000",
+          "volume": "00000",
+          "language": "000000"
+        },
+        "quantity": 0
+      },
+      {
+        "id": 8,
+        "title": "kappa",
+        "price": "kpkkk",
+        "year": "pkpkp",
+        "autor": "kpkp",
+        "genre": "kppkpk",
+        "volume": "pkpkpkp",
+        "language": "pkpk",
+        "image": "assets/images/kappa.png",
+        "configure": {
+          "autor": "kpkp",
+          "genre": "kppkpk",
+          "volume": "pkpkpkp",
+          "language": "pkpk"
+        },
+        "quantity": 0
+      }
+    ],
+    "basket": [
+      {
+        "id": 8,
+        "title": "kappa",
+        "price": "kpkkk",
+        "year": "pkpkp",
+        "autor": "kpkp",
+        "genre": "kppkpk",
+        "volume": "pkpkpkp",
+        "language": "pkpk",
+        "image": "assets/images/kappa.png",
+        "configure": {
+          "autor": "kpkp",
+          "genre": "kppkpk",
+          "volume": "pkpkpkp",
+          "language": "pkpk"
+        },
+        "quantity": 0
+      }
+    ]
+  }
